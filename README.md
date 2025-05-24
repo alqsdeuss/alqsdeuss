@@ -12,6 +12,6 @@
 
 <img align="left" src="https://31.media.tumblr.com/75e78a6a35b2f4c53dedb22b6eacb2b2/tumblr_mr3uapgZ511s1k544o1_500.gif" width="100"/>
 
-csharp
+```csharp
 github  $  github.com/alqsdeuss
 dsc      $  @himforealtrend
