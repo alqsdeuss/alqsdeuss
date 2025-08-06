@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="[https://count.getloli.com/@alqsdeuss?name=alqsdeuss&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto](https://count.getloli.com/@alqsdeuss?name=alqsdeuss&theme=booru-r6gdrawfriends&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)" alt="Profile Views" />
+  <img src="https://count.getloli.com/@alqsdeuss?name=alqsdeuss&theme=booru-r6gdrawfriends&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
 </div>
+
 
 <div align="center">
   <a href="https://discord.com/users/1106121476932898946">
