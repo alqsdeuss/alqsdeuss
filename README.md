@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Days+One&size=25&pause=1000&color=64BDA5&width=435&lines=fullstack+developer;she%2Fher" alt="Typing SVG" /></a>
+  <img src="https://count.getloli.com/@alqsdeuss?name=alqsdeuss&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
+</div>
 
 <div align="center">
   <a href="https://discord.com/users/1106121476932898946">
