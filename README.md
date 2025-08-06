@@ -12,7 +12,7 @@
 
 ---
 
-<img align="left" src="https://31.media.tumblr.com/75e78a6a35b2f4c53dedb22b6eacb2b2/tumblr_mr3uapgZ511s1k544o1_500.gif" width="100"/>
+<img align="left" src="https://images.steamusercontent.com/ugc/60331301539237305/9E64F8E8886F17B6BBD9253A51365FB23C9BAAAB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100"/>
 
 ```csharp
 github  $  github.com/alqsdeuss
